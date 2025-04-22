@@ -1,6 +1,6 @@
 # Literacy Progress Tracker (Salesforce Declarative System)
 
-![literary progress tracker logo](https://github.com/Rwb3n/lit_track/blob/main/logo1.png)
+![literary progress tracker logo](https://github.com/Rwb3n/lit_track/blob/main/logo1-sml.png)
 
 ## Overview
 
