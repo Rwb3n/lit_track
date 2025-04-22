@@ -1,5 +1,7 @@
 # Literacy Progress Tracker (Salesforce Declarative System)
 
+!(https://github.com/Rwb3n/lit_track/blob/main/logo1.png)
+
 ## Overview
 
 **Literacy Progress Tracker** is a fully declarative Salesforce-based application designed to monitor children's reading development and manage volunteer interactions without custom Apex code. The system emphasizes structured data capture, rapid session logging, progressive skill tracking, and minimal administrative overhead.
